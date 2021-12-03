@@ -2,3 +2,4 @@
 file_locations.py
 file_locations.pyc
 __pycache__/
+.DS_Store
